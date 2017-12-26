@@ -1,0 +1,26 @@
+{
+  "name": "a14",
+  "version": "0.1.0",
+  "description": "a14",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "zoroaster test/spec",
+    "test-watch": "zoroaster test/spec --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Sobesednik/a14.git"
+  },
+  "keywords": [
+    "mnp"
+  ],
+  "author": "Anton <anton@sobesednik.media>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sobesednik/a14/issues"
+  },
+  "homepage": "https://github.com/Sobesednik/a14#readme",
+  "devDependencies": {
+    "zoroaster": "0.4.4"
+  }
+}
